@@ -30,7 +30,7 @@ dependencies {
     wearApp project(':wear')
     compile 'org.springframework.android:spring-android-rest-template:2.0.0.M4'
     compile 'com.google.guava:guava:33.4.6-jre'
-    compile 'com.google.code.gson:gson:2.12.1'
+    compile 'com.google.code.gson:gson:2.13.1'
     compile 'com.android.support:appcompat-v7:22.0.0'
     compile 'com.google.android.gms:play-services:7.0.0'
     compile 'com.facebook.android:facebook-android-sdk:18.0.2'
